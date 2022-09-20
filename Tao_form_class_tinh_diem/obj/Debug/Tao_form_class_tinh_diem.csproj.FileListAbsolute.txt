@@ -1,0 +1,11 @@
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\bin\Debug\Tao_form_class_tinh_diem.exe.config
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\bin\Debug\Tao_form_class_tinh_diem.exe
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\bin\Debug\Tao_form_class_tinh_diem.pdb
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.csproj.AssemblyReference.cache
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.csproj.SuggestedBindingRedirects.cache
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.Form1.resources
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.Properties.Resources.resources
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.csproj.GenerateResource.cache
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.exe
+D:\Lap_Trinh_C#\Tao_form_class_tinh_diem\Tao_form_class_tinh_diem\obj\Debug\Tao_form_class_tinh_diem.pdb
